@@ -7,7 +7,7 @@ ITCP Lab_Practicals_YCCE
 4. [Lab_04 : Looping Statements](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_04.c)
 5. [Lab_05 : Function and Recursion](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_05.c)
 6. Lab_06 : 1D Array
-7. Lab_07 : 2D Array
-8. Lab_08 : Strings and Pointers
-9. Lab_09 : Structure
-10. Lab_10: File
+7. [Lab_07 : 2D Array](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_07.c)
+8. [Lab_08 : Strings and Pointers](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_08.c)
+9. [Lab_09 : Structure](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_09.c)
+10. [Lab_10: File](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_10.c)
