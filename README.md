@@ -7,6 +7,8 @@
 
 ## C Programes:
 ![c](https://user-images.githubusercontent.com/84805840/122444062-cd982180-cfbd-11eb-9dc8-b3513b0db897.jpg)
+
+
 ITCP Lab Practicals
 1. [Lab_01 : Linux Commands](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_01.md)
 2. [Lab_02 : Arithematic and Conditional Opertaors](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_02.c)
