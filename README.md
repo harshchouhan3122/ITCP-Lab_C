@@ -1,6 +1,6 @@
 # ITCP-Lab_C
 <p align="center">
-  <img width="460" height="300" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimages.unsplash.com%2Fphoto-1515879218367-8466d910aaa4%3Fixlib%3Drb-1.2.1%26ixid%3DMnwxMjA3fDB8MHxzZWFyY2h8Mzl8fHByb2dyYW1taW5nfGVufDB8fDB8fA%253D%253D%26w%3D1000%26q%3D80&imgrefurl=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fprogramming&tbnid=u8x9A2EIJOSCIM&vet=12ahUKEwjzxfvdk5_xAhWXdn0KHaaHC7oQMygIegUIARDCAQ..i&docid=loFvT_05xv_DCM&w=1000&h=668&q=c%20code%20wallpaper%20hd&ved=2ahUKEwjzxfvdk5_xAhWXdn0KHaaHC7oQMygIegUIARDCAQ/460/300">
+  <img width="460" height="300" src="https://user-images.githubusercontent.com/84805840/122441108-da674600-cfba-11eb-8d18-f0cc06082a23.jpg/460/300">
 </p>
 
 ## C Programes:
