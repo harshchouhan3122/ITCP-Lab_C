@@ -1,9 +1,9 @@
 # ITCP-Lab_C
+##ITCP Lab Practicals
 <p align="center">
-  <img width="460" height="300" src="https://user-images.githubusercontent.com/84805840/122441108-da674600-cfba-11eb-8d18-f0cc06082a23.jpg/460/300">
+  <img width="460" height="300" src="![c](https://user-images.githubusercontent.com/84805840/122441108-da674600-cfba-11eb-8d18-f0cc06082a23.jpg)/460/300">
 </p>
-![c](https://user-images.githubusercontent.com/84805840/122441108-da674600-cfba-11eb-8d18-f0cc06082a23.jpg)
-###ITCP Lab_Practicals_YCCE
+
 ## C Programes:
 1. [Lab_01 : Linux Commands](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_01.md)
 2. [Lab_02 : Arithematic and Conditional Opertaors](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_02.c)
