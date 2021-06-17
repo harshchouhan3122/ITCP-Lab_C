@@ -2,7 +2,8 @@
 # ITCP-Lab_C
 <p align="center">
   
-  <img width="460" height="300" src="">
+  <img width="460" height="300" src="![c](https://user-images.githubusercontent.com/84805840/122444702-747cbd80-cfbe-11eb-9be1-a1beec24fe9c.jpg)
+">
 </p>
 
 ## C Programes:
