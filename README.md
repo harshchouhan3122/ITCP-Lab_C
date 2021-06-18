@@ -3,11 +3,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/84805840/122491365-761ba500-d001-11eb-8a54-673727ae7300.jpg">
+  <img height="300" width="600" src="https://user-images.githubusercontent.com/84805840/122600090-e9b6c400-d08c-11eb-8405-face30c4d8eb.png">
 </p>
 
 ## C Programes:
-
+![images (1)](https://user-images.githubusercontent.com/84805840/122600729-d821ec00-d08d-11eb-95b2-136ab94699c1.png)
 ### ITCP Lab Practicals
 1. [Lab_01 : Linux Commands](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_01.md)
 2. [Lab_02 : Arithematic and Conditional Opertaors](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_02.c)
