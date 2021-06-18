@@ -1,16 +1,14 @@
+<h1 align="center">
+  ITCP-Lab_C
+</h1>
 
-# ITCP-Lab_C
 <p align="center">
-  
-  <img width="460" height="300" src="![c](https://user-images.githubusercontent.com/84805840/122444702-747cbd80-cfbe-11eb-9be1-a1beec24fe9c.jpg)
-">
+  <img src="https://user-images.githubusercontent.com/84805840/122491365-761ba500-d001-11eb-8a54-673727ae7300.jpg">
 </p>
 
 ## C Programes:
-![c](https://user-images.githubusercontent.com/84805840/122444062-cd982180-cfbd-11eb-9dc8-b3513b0db897.jpg)
 
-
-ITCP Lab Practicals
+### ITCP Lab Practicals
 1. [Lab_01 : Linux Commands](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_01.md)
 2. [Lab_02 : Arithematic and Conditional Opertaors](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_02.c)
 3. [Lab_03 : Conditional and Unconditional Statements](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_03.c)
@@ -20,4 +18,4 @@ ITCP Lab Practicals
 7. [Lab_07 : 2D Array](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_07.c)
 8. [Lab_08 : Strings and Pointers](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_08.c)
 9. [Lab_09 : Structure](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_09.c)
-10. [Lab_10: File](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_10.c)
+10. [Lab_10 : File](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_10.c)
