@@ -11,6 +11,13 @@
 
 
 <hr> </hr>
+<h2>
+    Into to ITCP-Lab_C Repository:-
+</h2>
+"ITCP-Lab_C_Practicals" Repository has been part of learning and teaching material for the most of the Engineering and Science Institutes around the country for years now.
+<br>This Repo contains total 10 Lab Practical Problems of C language on different topics like Operators,Loops, Functions and Recursions, Array, Strings and Pointers, Structure and File Handling etc. which covers maximum part of any Programming Language.</br>
+Go through all these programs to learn How to solve any program or How to approach towards the solution of given problem . I solved many problems in different different ways through which you can grasp that concept easily and quickly.</br>
+<hr> </hr>
 
 ## ITCP-Lab_C_Practicals:
 
@@ -26,6 +33,13 @@
 10. [Lab_10 : File](https://github.com/harshchouhan3122/ITCP-Lab_C/blob/master/Lab_10.c)
 
 <hr> </hr>
+Thankyou for your visit.<br>If you have any suggestion or any query related to this Repo,<br>You can Leave your comment on 
+<a href="https://mail.google.com/mail/u/0/#inbox?compose=CllgCJTNqGHNBVSbDqVzZBPkKHGNZbqPwMcwkfJVjHvbvrgJGpnNWntXdsxtPWZvZCpMGGGmrXq"target="_blank">
+    harshchouhan148@gmail.com
+</a>.
+<br>I will try to resolve your query as soon as possible.</br>
+<hr> </hr>
+
 
 
 <h2 align="center">
@@ -38,3 +52,9 @@
   
 </p>
 <hr> </hr>
+
+<h1 align="center">
+    <i>   
+      Thank You! Visit Again!  
+    </i> 
+</h1>
