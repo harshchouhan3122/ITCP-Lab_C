@@ -12,7 +12,7 @@
 
 <hr> </hr>
 <h2>
-    Into to ITCP-Lab_C Repository:-
+    Brief Introduction of this ITCP-Lab_C Repository:-
 </h2>
 "ITCP-Lab_C_Practicals" Repository has been part of learning and teaching material for the most of the Engineering and Science Institutes around the country for years now.
 <br>This Repo contains total 10 Lab Practical Problems of C language on different topics like Operators,Loops, Functions and Recursions, Array, Strings and Pointers, Structure and File Handling etc. which covers maximum part of any Programming Language.</br>
